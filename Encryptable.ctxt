@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Encryptable
+comment0.text=\n\ Code\ for\ assignment\ 7\ part\ 1\ (Secret\ task)\n\n\ @author\ Mehreen\ Sajid\n\ @version\ 3/25/25\n
+comment1.params=
+comment1.target=void\ encrypt()
+comment1.text=\n\ Encrypts\ a\ message\n\ Generates\ a\ random\ number\ to\ shift\ each\ letter\ index\ by\ in\ the\ constructor\n
+comment2.params=
+comment2.target=java.lang.String\ decrypt()
+comment2.text=\n\ Decrypts\ an\ encrypted\ a\ message\n\ \n\ @return\ the\ decrypted\ message\ as\ a\ String\n
+numComments=3

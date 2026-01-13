@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Vigenere
+comment0.text=\n\ Code\ for\ assignment\ 7\ part\ 1\ (Secret\ task)\n\n\ @author\ Mehreen\ Sajid\n\ @version\ 3/27/25\n
+comment1.params=msg\ pass
+comment1.target=Vigenere(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Vigenere\n
+comment2.params=
+comment2.target=void\ convert()
+comment2.text=\n\ Converts\ all\ the\ letters\ in\ msg\ to\ uppercase\ and\ removes\ non-space\ chars\n
+comment3.params=
+comment3.target=void\ convertPass()
+comment3.text=\n\ Converts\ all\ the\ letters\ in\ pass\ to\ uppercase\ and\ removes\ non-space\ chars\n
+comment4.params=
+comment4.target=void\ encrypt()
+comment4.text=\n\ Encrypts\ a\ message\ using\ Vigenere's\ encryption\n
+comment5.params=
+comment5.target=java.lang.String\ decrypt()
+comment5.text=\n\ Decrypts\ a\ message\ encrypted\ with\ Vigenere's\ encryption\n\ \n\ i\:\ index\ in\ msg\n\ shiftLet\:\ ascii\ code\n\ \n\ capital\ letters\:\ 65-90\n\n\ @return\ a\ string\ containing\ the\ decrypted\ message\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Returns\ the\ message\ as\ a\ string\n\ \n\ @return\n
+numComments=7

@@ -1,0 +1,24 @@
+secret: CAT
+encrypted: CTN
+decrypted: CAT
+
+secret: CARS
+encrypted: EALU
+decrypted: CARS
+
+secret: cat
+encrypted: CTN
+decrypted: CAT
+
+secret: aaa
+encrypted: CAT
+decrypted: AAA
+
+secret: Attack at Dawn
+encrypted: CTNCCECTWCWH
+decrypted: ATTACKATDAWN
+
+secret: attack
+encrypted: ANNAEU
+decrypted: ATTACK
+
