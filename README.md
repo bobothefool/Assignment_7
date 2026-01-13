@@ -28,5 +28,5 @@ This is a summary of the inputs and outputs put through the `Vigenere` class, li
 | attack | ANNAEU |
 
 # Getting Started
-1. Download the `.java` files - you do not need to download the `doc` directory, `.DS_Store` (this is a file that Mac creates for every folder), and `package.bluej`. (You may download `vigenereTest.txt` as a reference for the correct output.)
+1. Download the `.java` files - you do not need to download the `doc` directory, `.DS_Store` (this is a file that Mac creates for every folder), or `package.bluej`. (You may download `vigenereTest.txt` as a reference for the correct output.)
 2. Use the `VigenereClient.java` or `SecretTest.java` files to play around with encrypting and decrypting secret messages.
