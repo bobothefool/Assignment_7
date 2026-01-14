@@ -73,5 +73,7 @@ public class VigenereTest
         
         hush.decrypt();
         System.out.println("decrypted: " + hush.toString() + "\n");
+        
+        // maybe add more test cases that handle punctuation or other characters
     }
 }
