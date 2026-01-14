@@ -47,4 +47,4 @@ This is a summary of the inputs and outputs put through the `Vigenere` class, li
     * You may download `vigenereTest.txt` as a reference for the correct output.
 2. Use the `VigenereClient.java` or `SecretTest.java` files to play around with encrypting and decrypting secret messages.
 
-        Note that the `Vigenere` class constructor requires two arguments: a message to be encrypted/decrypted, and a "password" to shift the message characters by. See "Vigenere's Cipher" for how it works.
+Note that the `Vigenere` class constructor requires two arguments: a message to be encrypted/decrypted, and a "password" to shift the message characters by. See "Vigenere's Cipher" for how it works.
